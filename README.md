@@ -4,7 +4,7 @@ Cartilha digital interativa do **Projeto Crescer Juntos – Cidadania e Trabalho
 
 Elaborado por **Jéssica Micaella Alves de Moura**.
 
-- Versão interativa: https://micaellamoura12-a11y.github.io/crescer-juntos/
+- Versão interativa: https://bit.ly/projeto-crescerjuntos (https://micaellamoura12-a11y.github.io/crescer-juntos/)
 - Versão em PDF (livro A5): [cartilha-crescer-juntos.pdf](cartilha-crescer-juntos.pdf)
 
 As respostas preenchidas na cartilha ficam salvas apenas no navegador de cada pessoa.
